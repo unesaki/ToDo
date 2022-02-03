@@ -1,0 +1,47 @@
+html {
+    font-size: 16px;
+}
+
+body,html {
+    width: 400px;
+    margin: 1rem auto;
+    font-family: serif;
+}
+
+body {
+    text-align: center;
+}
+
+.task_value {
+    height: 1.5rem;
+}
+
+.task_submit {
+    height: 2rem;
+} 
+
+div#table {
+    margin: auto;
+    background-color: papayawhip;
+    width: 370px;  
+    min-height: 300px;
+    height: auto;
+    border-radius: 1rem;
+    margin-top: 2rem;
+}
+
+h2 {
+    font-size: 1.2rem;
+    padding-top: 1.5rem;
+}
+
+
+
+li {
+    margin: 2rem 2rem 0 0;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: space-between;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
